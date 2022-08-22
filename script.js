@@ -50,3 +50,4 @@ document
       weather.search();
     }
   });
+weather.fetchWeather("Kolkata");
